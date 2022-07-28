@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YabseraBogale
-- 👀 I’m interested in applying what i learned to applications
-- 🌱 I’m currently learning javascript on freecodecamp 
-- 💞️ I’m looking to do with any who what to do project
+- 👀 I’m interested in applying what i learned to applications.
+- 🌱 I’m currently learning javascript on freecodecamp. 
+- 💞️ I’m looking to working with any one.
 - 📫 you can reach me @ yabserabogalercd30932013@gmail.com
 
 <!---
