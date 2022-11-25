@@ -1,25 +1,35 @@
-public class Account{
-	private String Name;
-	private int Telephone;
-	private String Address;
-	public void SetName(String Name){
-		this.Name=Name;
-	}
-	public void SetTelephone(int Telephone){
-		this.Telephone=Telephone;
-	}
-	public void SetAddress(String Address){
-		this.Address=Address;
-	}
-	public String GetName(){
-		return Name;
-	}
-	public int GetTelephone(){
-		return Telephone;
-	}
-	public String GetAddress(){
-		return Address;
-	}
+
+public class Account {
+
+	private String name;
+	private int age;
 	
+	public Account(String Name,int Age){
+		name=Name;
+		if(Age>=18) {
+			age=Age;
+		}
+		else if(Age<18) {
+			age=18;
+		}
 		
 	}
+	public void SetName(String Name) {
+		name=Name;
+	}
+	public String GetName() {
+		return name;
+	}
+	public void SetAge(int Age) {
+		if(Age>=18) {
+			age=Age;
+		}
+		else if(Age<18) {
+			age=18;
+		}
+	}
+	public int GetAge() {
+		return age;
+	}
+	
+}
