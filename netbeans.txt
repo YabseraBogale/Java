@@ -1,0 +1,2 @@
+installed netbeans found it hard to remove and pruge but documtion was good.
+installed plugins for c/c++ and python and found he auto complition less than vscode but workable
